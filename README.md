@@ -7,7 +7,6 @@ To run the code following steps need to be done:
 4.Run px cypress run --browser firefox to run in firefox 
 
 Code can also be be running  by first opening the cypress npm run cypress:open   and then running it.
-
 For running the code in diffrent enviorment or other language following steps needs to be done:
 
 1.Go to the fixtures folder
