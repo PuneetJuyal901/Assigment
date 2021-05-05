@@ -1,0 +1,41 @@
+
+{
+    "Enviorment":{
+        "env":"staging",
+        "language":"English"
+    },
+    "Tc_01_verify_if_user_able_to_do_morning_entries":{
+        "userName":"punitjuyal903@gmail.com",
+        "password":"Test@123456",
+        "EntriesOnWentToBedField":"22:00",
+        "EntriesOnFellSleepAtFiled":"23:00",
+        "putEntriesOnWokeUpAtField":"08:00",
+        "putEntriesOnGotUpAtField":"09:00",
+        "yesOption":"Yes",
+        "ValueFromDropDownForAwakeAtNightEntry":"5",
+        "ValueUnderHowLongYouAreAwakeField":"10",
+        "putValueUnderWhichOneFiledInSleepingPills":"Test",
+        "putValueUnderSpecialCirumstances":"Test"
+    },
+
+    "Tc_02_verify_if_user_able_to_do_evening_entries":{
+        "userName":"punitjuyal903@gmail.com",
+        "password":"Test@123456",
+        "selectMonth":"März",
+        "selectYear":"2021",
+        "selectDate":"20",
+        "mood":"8",
+        "exhaustion":"3",
+        "abilityToFocus":"6",
+        "yesOption":"Yes",
+        "putValuesUnderHowLongFieldUnderEveningEntries":"30",
+        "addCoffeeUnderEveningEntries":"4",
+        "addTeaUnderEveningEntries":"3",
+        "addMateUnderEveningEntries":"2",
+        "addColaUnderEveningEntries":"6",
+        "addOtherUnderEveningEntries":"3",
+        "addBeerUnderEveningEntries":"2",
+        "addWineUnderEveningEntries":"6",
+        "addStrongAlcoholicDrinkUnderEveningEntries":"3"
+
+    }}

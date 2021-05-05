@@ -1,0 +1,20 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "declaration": false,
+        "removeComments": true,
+        "outDir": "JSFiles",
+        "strict": true,
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "types": ["cypress"]
+    },
+    "exclude": [
+        "node_modules",
+        "testData"
+    ]
+}
